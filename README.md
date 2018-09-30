@@ -2,7 +2,7 @@
 Employee Date and Rate Management
 
 ### Description
-A Comprehensive directorey of employee monthly rate and work time history
+A Comprehensive directory of employee monthly rate and work time history
 Made with:
 * Bootstrap
 * Javascript
@@ -11,7 +11,8 @@ Made with:
 * MomentJS
 
 ### Webpage
-(TimeSheet)[https://walterioo.github.io/TimeSheet]
+[TimeSheet](https://walterioo.github.io/TimeSheet)
 
 ### Crontributors
-* 
+* [Francisco Gonzalez](https://github.com/lugof)
+* [Jorge Baez](https://github.com/jibm82)
