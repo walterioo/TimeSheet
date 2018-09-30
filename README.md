@@ -16,3 +16,4 @@ Made with:
 ### Crontributors
 * [Francisco Gonzalez](https://github.com/lugof)
 * [Jorge Baez](https://github.com/jibm82)
+* [Walter Almada](https://github.com/walterioo)
