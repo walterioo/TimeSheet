@@ -2,8 +2,8 @@
 Employee Date and Rate Management
 
 ### Description
-A Comprehensive directory of employee monthly rate and work time history
-Made with:
+> A Comprehensive directory of employee monthly rate and work time history
+>Made with:
 * Bootstrap
 * Javascript
 * jQuery
